@@ -10,3 +10,31 @@ The questions (at minimum) that the assignment should address are as follows:
 8. Construct a social network using the provided data and visualise the network, then provide the basic network characteristics, including numbers of nodes and edges, network density, average degree.
 9. Calculate the edge centrality of this network and plot the distribution of the edge centrality values.
 10. Use two community detection algorithms to detect the clusters/community within this social network, then compare the difference of results (the number of clusters and numbers of nodes in each cluster).
+
+
+
+1. FATAL
+2. SERIOUS
+3. SLIGHT
+
+SEX OF DRIVER
+1. MALE
+2. FEMALE
+3. NOT KNOWN
+
+
+CASUALTY CLASS
+1. DRIVER or RIDER
+2. VEHICLE or PILLION PASSENGER
+3. PEDESTRIAN
+
+
+BREATH TEST
+0. Not applicable
+1. Positive
+2. Negative
+3. Not requested
+4. Refused to provide
+5. Driver not contacted at time of accident
+6. Not provided (medical reasons)
+
